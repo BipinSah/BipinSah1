@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BipinSah
+- 👋 Hi, I’m Bipin Sah
 - 👀 I’m interested in Coding,Learning new languages and skills.
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
